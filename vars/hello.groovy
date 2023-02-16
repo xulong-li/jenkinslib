@@ -1,4 +1,4 @@
-def hello(){
+def call(){
   println("hello word")
 }
 
